@@ -2,8 +2,6 @@ package LineComparison;
 import java.util.*;
 import java.lang.Math;
 
-import static java.lang.Math.sqrt;
-
 public class UC1lineLengthCalculation {
 
     public static void main(String[] args) {
